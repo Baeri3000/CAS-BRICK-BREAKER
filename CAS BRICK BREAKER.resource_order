@@ -18,7 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
-    {"name":"MenuRoom","order":1,"path":"rooms/MenuRoom/MenuRoom.yy",},
+    {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"spr_button","order":1,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
   ],
