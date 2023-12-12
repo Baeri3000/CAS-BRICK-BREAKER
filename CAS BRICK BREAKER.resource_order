@@ -15,11 +15,16 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"balls","order":3,"path":"folders/Sprites/balls.yy",},
+    {"name":"bricks","order":4,"path":"folders/Sprites/bricks.yy",},
+    {"name":"paddles","order":5,"path":"folders/Sprites/paddles.yy",},
+    {"name":"backgrounds","order":6,"path":"folders/Sprites/backgrounds.yy",},
+    {"name":"buttons","order":7,"path":"folders/Sprites/buttons.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_menu_bg","order":1,"path":"sprites/spr_menu_bg/spr_menu_bg.yy",},
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
-    {"name":"spr_button","order":1,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
   ],
 }
