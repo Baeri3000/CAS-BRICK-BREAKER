@@ -1,4 +1,2 @@
-_prev_mouse_x = 0;
-
-
-
+currentSpeed = 0
+maxSpeed = 8
