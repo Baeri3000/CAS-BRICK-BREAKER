@@ -1,1 +1,0 @@
-hSpeed = -hSpeed;

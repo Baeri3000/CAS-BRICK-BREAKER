@@ -52,13 +52,27 @@ N
 objects/obj_brick/obj_brick.yy,d\c\dc356f89e2694d61456cd253544ab2b8ecbee273
 M
 objects/obj_ball/Create_0.gml,f\2\f2d9e20206a23af2f0451dc64213f310a041ea3a
-]
--objects/obj_ball/Collision_obj_bound_vert.gml,3\0\302ae06e0690838d4fb570a8546a7ab5d260612a
 R
 "objects/obj_paddle/Keyboard_39.gml,f\6\f66ef59e5dd46b774607a47f703ef03260abad60
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-]
--objects/obj_ball/Collision_obj_bound_hori.gml,0\6\060e6b03e1d8a48552a21e3b6d9647bb3fe2b4a1
 O
 objects/obj_paddle/Create_0.gml,0\d\0d5399c8142372637b0798efe5de8c2cdd2f50b5
+]
+-objects/obj_ball/Collision_obj_base_bound.gml,9\7\9736f4d75fa22363585457d56bf2c7e0b091ce66
+X
+(objects/obj_ball/Collision_obj_brick.gml,6\d\6de1a297e1a89b1ce9112733b0014226438863d2
+P
+ objects/obj_main/KeyPress_27.gml,7\5\75a4d444c46a199646ff7e4ca24e4e548b83d3c2
+L
+objects/obj_main/obj_main.yy,7\b\7ba6348853f903300449ff42f80335f96dd28e9b
+M
+objects/obj_main/Create_0.gml,8\e\8e14de8c8cbf40c8a0f7b8a4e7100c4159c25746
+K
+scripts/Script1/Script1.gml,7\e\7e91217a3961a9330185da77d3f04d4d1ebf8dc4
+J
+scripts/Script1/Script1.yy,5\3\533f64697501309755d303743c9f1b2af251c632
+X
+(objects/obj_base_bound/obj_base_bound.yy,9\9\993889440afb301b4f4ff6c8267540ce440115fd
+X
+(objects/obj_brick/Collision_obj_ball.gml,4\1\41ccb9f6b85793be35ac58649b6a1de73278076c
