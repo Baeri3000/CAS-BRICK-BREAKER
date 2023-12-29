@@ -1,5 +1,5 @@
-if (global.paused) {
-	speed = 0;
-} else {
+if (!global.paused && global.game_started) {
 	speed = 10;
+} else {
+	speed = 0;
 }
