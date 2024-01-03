@@ -48,8 +48,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Boundary",
-    "path": "folders/Sprites/Boundary.yy",
+    "name": "boundary",
+    "path": "folders/Sprites/boundary.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -30,7 +30,7 @@ if(!instance_exists(obj_ball))
 }
 
 // Count ALL bricks.
-var _bricks_remaining = instance_number(obj_brick);
+var _bricks_remaining = instance_number(obj_base_brick);
 
 // If no destroyable blocks remain, you win!
 if(_bricks_remaining <= 0)

@@ -21,4 +21,4 @@ if(instance_exists(obj_button_restart))
 instance_destroy();
 
 //create countdown again
-instance_create_layer(x, y, "Countdown", obj_countdown);
+instance_create_layer(x, y, "Countdown", obj_countdown_long);
