@@ -1,1 +1,1 @@
-currentSpeed = maxSpeed;
+current_speed = max_speed;

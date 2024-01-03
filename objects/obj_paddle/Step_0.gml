@@ -1,1 +1,1 @@
-x = clamp(x + currentSpeed, sprite_width / 2, room_width - sprite_width / 2);
+x = clamp(x + current_speed, sprite_width / 2, room_width - sprite_width / 2);

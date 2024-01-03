@@ -1,2 +1,2 @@
-currentSpeed = 0
-maxSpeed = 8
+current_speed = 0
+max_speed = 8
