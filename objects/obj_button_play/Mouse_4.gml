@@ -7,5 +7,5 @@ global.old_score = 0;
 // Stop the menu music
 audio_stop_all();
 
-room_goto(rm_level_one);
+room_goto_next();
 
